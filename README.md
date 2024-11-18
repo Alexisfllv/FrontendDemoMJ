@@ -26,3 +26,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 # FrontendDemoMJ
+
+node version : v23.2.0
+
+npm version : 10.9.0
+
+Angular CLI: 18.2.12
+
+# Comandos comunes de angular
+//creacion de un nuevo proyecto
+ng new {nombre_proyecto}
